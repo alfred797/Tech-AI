@@ -1,0 +1,153 @@
+
+.body{
+  background-color: brown;
+}
+.back-udemy{
+  background-color: white;
+}
+.price-stock{
+  color: white;
+  font-weight: bold;
+  }
+.cart-button{
+  background-color: yellow;
+  color: black;
+  height: 40px;
+  width: 100px;
+  border-radius: 18px; 
+  border: none;
+  font-size: medium; 
+  font-weight: 200;
+  transition: opacity 2s;
+}
+.cart-button:hover{
+  background-color: blueviolet;
+  color: white;
+  opacity:0.5;
+
+}
+.buy-button{
+  background-color:orange;
+  color: black;
+  height: 40px;
+  width: 100px;
+  border-radius: 18px; 
+  margin-left: 8pxs;
+  border: none;
+  font-size: medium;
+  font-weight: 200;
+  transition: opacity 2s;
+}
+.buy-button:hover{
+  background-color: blanchedalmond;
+  opacity: 0.5;
+}
+.request-now{
+  background-color:black;
+  color: white;
+  height: 40px;
+  width: 100px;
+  border-radius: 18px;
+  margin-left: 8pxs;
+  border-color: white;
+  font-size: medium;
+  font-weight: 200;
+  transition: opacity 2s;
+  box-shadow: 0 5px 5px white;
+}
+.request-now:hover{
+   background-color: darkolivegreen;
+   opacity: 0.5;
+}
+.sign-up{
+  background-color:green;
+  color:white;
+  height: 40px;
+  width: 100px;
+  border:15px;
+  border-color: white;
+  border-radius: 18px;  
+  margin-left: 8pxs;
+  font-size: medium;
+  font-weight: 200;
+  transition: opacity 2s;
+  margin-left: 1%;
+}
+.sign-up:hover{
+  background-color: cyan;
+  opacity: 0.5;
+  box-shadow: 0 5px 5px black;
+}
+.get-started{
+  background-color:purple;
+  color: white;
+  height: 40px;
+  width: 100px;
+  border:15px;
+  border-color: white;
+  border-radius: 18px;
+  margin-left: 8pxs;
+  font-size: medium;
+  font-weight: 200;
+  transition: opacity 2s;
+  margin-left: 2%;
+}
+.get-started:hover{
+  background-color: chocolate;
+  opacity: 0.5;
+}
+.download-{
+  border-color: black;
+  background-color:white;
+  color: black;
+  height: 40px;
+  width: 100px;
+  border:15px;
+  border-radius: 30px;
+  margin-left: 8pxs;
+  font-size: medium;
+  font-weight: 200;
+  transition: opacity 2s;
+  margin-left: 3%;
+}
+.download-:hover{
+  background-color: crimson;
+  opacity: 0.5;
+}
+.apply-{
+  background-color:blue;
+  color: white;
+  height: 40px;
+  width: 200px;
+  border:15px;
+  border-color: white;
+  border-radius: 18px;
+  margin-left: 8pxs;
+  font-size: medium;
+  font-weight: 200;
+  transition: opacity 2s;
+  margin-left: 3%;
+}
+.apply-:hover{
+  background-color: aqua;
+  opacity: 0.5;
+}
+.save-{
+  background-color:green;
+  color:white;
+  height: 40px;
+  width: 100px;
+  border:15px;
+  border-color: white;
+  border-radius: 18px;  
+  margin-left: 5%;
+  font-size: medium;
+  font-weight: 200;
+  transition: opacity 2s;
+  box-shadow: 5px 5px 5px black;
+}
+.save-:hover{
+  background-color: lightskyblue;
+  opacity: 0.5;
+}
+</style>

@@ -1,0 +1,134 @@
+.body{
+  background-color: darkgoldenrod;
+}
+
+.main-nav{
+  display:flex;
+  background-color:white;
+  list-style: none;
+  font-size: 20px;
+  height: 50px;
+  margin-top: -8px;
+  margin-left: -8px;
+  margin-right: -8px;
+  padding-top: 17px;
+  
+}
+.push{
+  margin-left: auto;
+}
+.video-title{
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 25px;
+    font-family: arial;
+  }
+  .button{
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    font-size: 10px;
+    color: white;
+    padding-top: 3px;
+    width: 24px;
+  }
+  .text1{
+    line-height: 15px;
+    width: 230px;
+    font-family: arial;
+    font-size: 13px;
+  }
+  .views{
+    color:black;
+    margin-top: none;
+    font-size: 13px;
+    font-family: arial;
+    padding-top: 0%;
+    }
+  .m-b{
+    color:black
+    font-size: 13px;
+    font-family: arial;
+  }
+  .text1{
+    color:black
+    font-size: 13px;
+    font-family: arial; 
+    font-size: 15px;
+    line-height: 20px;
+    width: 300px ;
+  }
+  .image{
+    margin-left: -1px;
+    width:131px;
+  }
+  .shop-now{
+    background-color: red;
+    padding-left: 20%;
+    padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    font-size: 17px;
+    text-align: center;
+    cursor: pointer;
+  }
+  .apple-logo{
+    height: 25px;
+    width: 25px; 
+  }
+  .span-exp:hover{
+    text-decoration: underline;
+  }
+  .span-exp:hover{
+    background-color: black;
+  }
+  .ss-d{
+    font-style: inherit;
+  }
+.ai-1{
+  margin-left: 750px;
+  margin-top:-250px ;
+  border-radius: 50px;
+
+
+}
+.text-ai{
+  width: 700px;
+  height: 200px;
+  text-align: center;
+  font-size: 15px;
+  font-style: oblique;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-top: 20px;
+  
+}
+.subscribe-1{
+  text-align: center;
+  margin-right: 700px;
+  font-size: 15px;
+  font-style: obliques;
+}
+.mail-1{
+  display: inline;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 14px;
+  border-radius: 30px;
+  margin-left: 200px;
+  
+} 
+.enter-1{
+  display: inline;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+  border-radius: 10px;
+  font-size: small;
+}
+
